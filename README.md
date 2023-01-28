@@ -46,9 +46,9 @@ f.close()
 
 
 ### OUTPUT:
-![command.png](./command.png)
+![command](https://user-images.githubusercontent.com/119477817/215274354-f8ee2258-8443-4b0d-8fbc-f35415f9ce85.png)
 
 
 
 ## RESULT:
-Thus the program is written to find the word count from the contents of a file using command line arguments.
+Thus the program is written to fin![Uploading command.png…]()d the word count from the contents of a file using command line arguments.
