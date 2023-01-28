@@ -51,4 +51,4 @@ f.close()
 
 
 ## RESULT:
-Thus the program is written to fin![Uploading command.png…]()d the word count from the contents of a file using command line arguments.
+Thus the program is written to find the word count from the contents of a file using command line arguments.
